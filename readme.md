@@ -26,8 +26,8 @@ project-root/
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/ai-fantasy-story-generator.git
-cd ai-fantasy-story-generator
+git clone https://github.com/SafiaTifour/smolagents-story-generator.git
+cd smolagents-story-generator
 ```
 
 ### 2️⃣ Install Dependencies
